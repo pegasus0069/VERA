@@ -557,7 +557,7 @@ VERA is designed strictly for **authorized defensive cybersecurity, academic res
 
 **PROPRIETARY & CONFIDENTIAL — PATENT PENDING**
 
-Copyright © 2024–2026 Noor-E Sadman Arnoy. All Rights Reserved.
+Copyright © 2024–2026 Noor-E Sadman. All Rights Reserved.
 
 The architectural designs, detection algorithms, hardware topologies, firmware, and software implementations embodied in this repository are the exclusive intellectual property of the author. Patent applications covering these inventions and methods are pending and/or in preparation.
 
