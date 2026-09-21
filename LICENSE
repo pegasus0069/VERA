@@ -1,21 +1,60 @@
-MIT License
+PROPRIETARY INTELLECTUAL PROPERTY & SOURCE CODE LICENSE
+PATENT PENDING — ALL RIGHTS RESERVED
 
-Copyright (c) 2024 Noor-E Sadman Arnoy
+Copyright (c) 2024-2026 Noor-E Sadman Arnoy. All Rights Reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+IMPORTANT NOTICE:
+This repository contains proprietary source code, firmware, hardware schematics,
+architectural topologies, and confidential trade secrets representing novel
+inventions in network intrusion deception, automated network isolation, and
+active cyber defense systems ("VERA"). Patent application(s) covering various
+inventive aspects of this system and its associated methods are pending and/or
+in preparation.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. RESERVATION OF RIGHTS:
+   All title, ownership rights, intellectual property rights, and patents in and
+   to the Software, Firmware, Hardware Designs, Documentation, and all related
+   concepts remain exclusively with the author (Noor-E Sadman Arnoy).
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. PERMITTED USE:
+   You are granted a strictly limited, non-exclusive, revocable, non-transferable,
+   and non-sublicensable personal license to view the source code and documentation
+   solely for internal reference, academic peer evaluation, or security inspection.
+
+3. STRICT PROHIBITIONS:
+   Without the prior, express, and written authorization of the copyright and
+   patent holder, you are strictly prohibited from:
+   a. Copying, duplicating, reproducing, distributing, sublicensing, leasing,
+      or making available to any third party this repository or any portion thereof.
+   b. Modifying, translating, altering, adapting, or creating derivative works
+      based on this codebase, architecture, or hardware topology.
+   c. Reverse engineering, decompiling, disassembling, or attempting to extract
+      the underlying algorithmic structure, trade secrets, or protocols.
+   d. Manufacturing, assembling, marketing, selling, offering for sale, importing,
+      or deploying any physical hardware devices or software products based upon or
+      embodying the proprietary methods, topologies, or designs disclosed herein.
+   e. Using this software or hardware architecture for any commercial purpose,
+      production deployment, enterprise network defense service, or competitive
+      benchmarking.
+
+4. NO PATENT LICENSE:
+   Nothing in this license shall be construed as conferring by implication,
+   estoppel, or otherwise any patent license, immunity, or right to make, use,
+   sell, or practice any patent or patent claim owned or held by the author.
+
+5. TERMINATION:
+   Any breach or violation of the terms of this license automatically and
+   immediately terminates all rights granted herein and constitutes willful
+   infringement of copyright, trade secret, and patent rights.
+
+6. DISCLAIMER OF WARRANTIES & LIMITATION OF LIABILITY:
+   THE SOFTWARE AND DESIGNS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY,
+   WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF,
+   OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+For licensing inquiries, commercial partnerships, or patent rights authorization,
+please contact the intellectual property owner:
+Noor-E Sadman [nooresadman@gmail.com]

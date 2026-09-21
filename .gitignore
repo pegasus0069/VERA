@@ -4,3 +4,6 @@ electron/out
 electron/dist
 /backend/__pycache__
 /backend/newBackend
+ESP32-VERA/build/
+.vscode/
+ESP32-VERA/.vscode/
